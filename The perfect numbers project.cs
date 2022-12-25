@@ -22,7 +22,7 @@ namespace Program2
 			int sum=0;
 			for(int i=num1; i<=num2; ++i)
 			{
-				for(int x=1; x<=num2
+				for(int x=1; x<=num2;++x)
 				{
 					if(x<i)
 					{
